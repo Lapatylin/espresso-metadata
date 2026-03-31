@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~D2-cHsUwlluoZ7mRX6i4wIvf667M4Xzt98N4rVSkwQsDobKmy-Ves3dJLnKfRr_QM3zLjYBMVBa6cUORgqJnEn_fp_46tARf4Pj66dtBSqpdoY2RpHQHLvMmzuLE1iMbMSEbdquwyJgBcz-qIKyteYfx0QNOIV8rWqLMZFsphwQd",
+  "name": "Lapatylin",
+  "description": "Independent individual Validator. Monitoring 💬 24/7",
+  "company_name": "Lapatylin",
+  "company_website": "https://x.com/lapatylin",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "",
+      "@2x": "",
+      "@3x": ""
+    },
+    "24x24": {
+      "@1x": "",
+      "@2x": "",
+      "@3x": ""
+    }
+  }
+}
